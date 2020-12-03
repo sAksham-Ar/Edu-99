@@ -1,2 +1,2 @@
 # Edu-99
-My solution to Edu_99
+My solution to Educational contest 99
